@@ -9,6 +9,8 @@ CSDN中的代码 在github中建立仓库存储
 2.EMD/EEMD：https://mianbaoduo.com/o/bread/YZ2TmZhq
 
 
+
+
 美国西储大学轴承数据；因为故障数据的采集位置和频率不同，所以分开，各取所需。
 
 1、西储大学轴承数据---驱动端轴承故障数据（采样频率12K）：https://mianbaoduo.com/o/bread/YZyclZhp
@@ -19,3 +21,6 @@ CSDN中的代码 在github中建立仓库存储
 
 4、西储大学轴承数据---风扇端轴承故障数据（采样频率12K）：https://mianbaoduo.com/o/bread/YZyclZhx
 
+5、西储大学轴承数据---正常基线数据：https://mianbaoduo.com/o/bread/YZyclZlp
+
+6、西储大学轴承数据---数据介绍及其轴承参数表：https://mianbaoduo.com/o/bread/YZyclZlq
