@@ -4,11 +4,11 @@ CSDN中的代码 在github中建立仓库存储
 
 信号分解
 
-1.ICEEMDAN/CEEMDAN：https://mianbaoduo.com/o/bread/YZ2TmZZv
+1. ICEEMDAN/CEEMDAN：https://mianbaoduo.com/o/bread/YZ2TmZZv
 
-2.EMD/EEMD：https://mianbaoduo.com/o/bread/YZ2TmZhq
+2. EMD/EEMD：https://mianbaoduo.com/o/bread/YZ2TmZhq
 
-3、FEEMD：https://mianbaoduo.com/o/bread/YZ2Tmptu
+3. FEEMD：https://mianbaoduo.com/o/bread/YZ2Tmptu
 
 
 美国西储大学轴承数据；因为故障数据的采集位置和频率不同，所以分开，各取所需。
