@@ -26,3 +26,6 @@ CSDN中的代码 在github中建立仓库存储
 5、西储大学轴承数据---正常基线数据：https://mianbaoduo.com/o/bread/YZyclZlp
 
 6、西储大学轴承数据---数据介绍及其轴承参数表：https://mianbaoduo.com/o/bread/YZyclZlq
+
+
+EMD分解/希尔伯特谱、边际谱、包络信号、计算画图代码（matlab）：https://mianbaoduo.com/o/bread/YZ2Ulpxv
