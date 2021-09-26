@@ -12,6 +12,8 @@ CSDN中的代码 在github中建立仓库存储
 
 4. MEEMD：https://mianbaoduo.com/o/bread/YZ2Uk5xu
 
+5. EMD分解/希尔伯特谱、边际谱、包络信号、计算画图代码（matlab）：https://mianbaoduo.com/o/bread/YZ2Ulpxv
+
 
 美国西储大学轴承数据；因为故障数据的采集位置和频率不同，所以分开，各取所需。
 
@@ -27,5 +29,7 @@ CSDN中的代码 在github中建立仓库存储
 
 6、西储大学轴承数据---数据介绍及其轴承参数表：https://mianbaoduo.com/o/bread/YZyclZlq
 
+各种智能算法（不断更新中）
 
-EMD分解/希尔伯特谱、边际谱、包络信号、计算画图代码（matlab）：https://mianbaoduo.com/o/bread/YZ2Ulpxv
+1、蚁狮优化算法(ALO)：https://mianbaoduo.com/o/bread/YZ2clJ1p
+
