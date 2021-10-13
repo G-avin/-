@@ -31,6 +31,37 @@ CSDN中的代码 在github中建立仓库存储
 
 各种智能算法（不断更新中）
 
+单目标：
+
 1、蚁狮优化算法(ALO)：https://mianbaoduo.com/o/bread/YZ2clJ1p
 
 2、蜻蜓优化算法(DA)：https://mianbaoduo.com/o/bread/YZ6Ulp9r
+
+3、蝗虫/蚱蜢优化算法（GOA算法）：https://mianbaoduo.com/o/bread/YZ6Ulp9s
+
+4、黄金正弦（Gold-SA）算法：https://mianbaoduo.com/o/bread/YZ6Ulp9u
+
+5、飞蛾火焰优化（MFO）算法：https://mianbaoduo.com/o/bread/YZ6Ulp9x
+
+6、多元宇宙优化算法（MVO）算法：https://mianbaoduo.com/o/bread/YZ6Vk5dt
+
+7、正弦余弦算法（SCA）算法：https://mianbaoduo.com/o/bread/YZ6Vk5du
+
+8、樽海鞘（SSA）算法：https://mianbaoduo.com/o/bread/YZ6Vk5dv
+
+多目标：
+
+1、多目标灰狼优化算法（MOGWO）：https://mianbaoduo.com/o/bread/YZ6Vk5hp
+
+2、多目标蜻蜓（MODA）优化算法：https://mianbaoduo.com/o/bread/YZ6Vk5hq
+
+3、多目标蚁狮（MOALO）优化算法：https://mianbaoduo.com/o/bread/YZ6Vk5hu
+
+4、多目标 多元宇宙优化算法（MVO）：https://mianbaoduo.com/o/bread/YZ6Vk5dy
+
+5、多目标粒子群（MOPSO）优化算法：https://mianbaoduo.com/o/bread/YZ6Vk5hw
+
+6、多目标樽海鞘（MSSA）优化算法：https://mianbaoduo.com/o/bread/YZ6Vk5hx
+
+7、NSGA-II多目标遗传算法：https://mianbaoduo.com/o/bread/YZ6Vk5lp
+
