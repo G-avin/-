@@ -16,6 +16,8 @@ CSDN中的代码 在github中建立仓库存储
 
 6. VMD分解 原始版本：https://mianbaoduo.com/o/bread/YpaZmJpv
 
+7. 最优变分模态分解（OVMD）---VMD分解的基础上确定分解层数和更新步长：https://mianbaoduo.com/o/bread/YpaZmZhp
+
 
 美国西储大学轴承数据；因为故障数据的采集位置和频率不同，所以分开，各取所需。
 
