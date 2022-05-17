@@ -22,7 +22,7 @@ CSDN中的代码 在github中建立仓库存储
 
 9. VMD分解（三）：通过一定准则（公式标准）：https://mianbaoduo.com/o/bread/YpqYmZty
 
-10、VMD分解（四）：通过原始信号和分解信号之间的MAPE判断：https://mianbaoduo.com/o/bread/YpqZlpdy
+ 10、VMD分解（四）：通过原始信号和分解信号之间的MAPE判断：https://mianbaoduo.com/o/bread/YpqZlpdy
 
 
 美国西储大学轴承数据；因为故障数据的采集位置和频率不同，所以分开，各取所需。
